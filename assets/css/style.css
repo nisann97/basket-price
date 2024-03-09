@@ -1,0 +1,39 @@
+header .navigation .basket-icon{
+    float: right;
+    margin-right: 10px;
+    position: relative;
+}
+
+header .navigation .basket-icon i{
+  color:red;
+  font-size: 20px;
+}
+
+header .navigation .basket-icon span{
+color: red;
+position: absolute;
+bottom: 13px;
+}
+
+header .navigation .basket-price{
+    float: right;
+    margin-right: 10px;
+    position: relative;
+    margin-left: 8px;
+}
+
+header .navigation .basket-price i{
+  color:red;
+  font-size: 20px;
+}
+
+header .navigation .basket-price span{
+color: red;
+position: absolute;
+bottom: 13px;
+}
+
+
+main .products .col-3{
+    gap: 5px;
+}
